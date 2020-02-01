@@ -25,4 +25,8 @@ Via Webcam - Raw
 ![Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Webcam.jpg)
 Webcam - Cropped
 ![Cropped Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Webcam_Cropped.jpg)
+From Disk Pt.2 - Raw
+![Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Stitched_Image2.jpg)
+From Disk Pt.2 - Cropped
+![Cropped Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Stitched_Image2_Cropped.jpg)
 
