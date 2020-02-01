@@ -15,3 +15,8 @@
 * _CornerResponse1/2.png_ - B&W Images showing the response from the __Harris Corners__
 * _Stitched Image.jpg_ - Raw stitched image
 * _Stitched Image Cropped.jpg_ - Stitched image after cropping
+
+![Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Stitched Image4.jpg)
+
+![Cropped Stitched Image]("https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Stitched Image4 Cropped.jpg")
+
