@@ -1,4 +1,5 @@
 # image-stitching-basic
+**Disclaimer: It's not perfect. And using webcam has trouble when lighting isn't consistent between images. But still, pretty cool.
 
 ### Included Files:
 "Stitch Images.py" - Main File
@@ -17,7 +18,7 @@
 * _Stitched Image Cropped.jpg_ - Stitched image after cropping
 
 ## Example Stitched Images
-From Disk - Raw
+From Disk (Image4_Left & Image4_Right) - Raw
 ![Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Stitched_Image4.jpg)
 From Disk - Cropped
 ![Cropped Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Stitched_Image4_Cropped.jpg)
@@ -25,8 +26,8 @@ Via Webcam - Raw
 ![Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Webcam.jpg)
 Webcam - Cropped
 ![Cropped Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Webcam_Cropped.jpg)
-From Disk Pt.2 - Raw
+From Disk (Image2_Left & Image2_Right) - Raw
 ![Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Stitched_Image2.jpg)
-From Disk Pt.2 - Cropped
+From Disk - Cropped
 ![Cropped Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Stitched_Image2_Cropped.jpg)
 
