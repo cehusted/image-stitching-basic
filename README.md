@@ -9,10 +9,10 @@
 "HCorners.py" - Functions for computing __Harris Corners__ and performing __Non-Max Suppression__ on corners  
 "HOG_Keypoints.py" - Functions for getting __HOG Feature Vectors__ and for __Matching Keypoints__ between images  
 "Homography.py" - Computes __Homography Matrix__ based on given matched keypoints  
-"Crop_Stitched.py" - Removes the black space that resulted from warping the second image to fit it to the first
+"Crop_Stitched.py" - __Removes the black space__ that resulted from warping the second image to fit it to the first
 
 ### This script will save a few images to disk:
-* _CornerResponse1/2.png_ - B&W Images showing the response from the __Harris Corners__
+* _CornerResponse1/2.png_ - B&W Images showing the response from the __Harris Corners__ (3 example corner response images included in repo)
 * _Stitched Image.jpg_ - Raw stitched image
 * _Stitched Image Cropped.jpg_ - Stitched image after cropping
 
