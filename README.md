@@ -16,7 +16,12 @@
 * _Stitched Image.jpg_ - Raw stitched image
 * _Stitched Image Cropped.jpg_ - Stitched image after cropping
 
+## Example Stitched Images (Raw/Cropped)
 ![Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Stitched_Image4.jpg)
 
 ![Cropped Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Stitched_Image4_Cropped.jpg)
+
+![Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Stitched_Image2.jpg)
+
+![Cropped Stitched Image](https://raw.githubusercontent.com/cehusted/image-stitching-basic/master/Samples/Stitched_Image2_Cropped.jpg)
 
